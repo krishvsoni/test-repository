@@ -1,8 +1,7 @@
 ```markdown
 # Project Name
 
-## Description
-A brief description of your project with Arweave integration.
+
 
 ## Getting Started
 
