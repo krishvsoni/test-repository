@@ -729,13 +729,6 @@ function UpdateClient(msg)
     print("APM>>> update client request by " .. msg.From)
 end
 
-Handlers.add(
-    "APM.UpdateClient",
-    Handlers.utils.hasMatchingTag("Action", "APM.UpdateClient"),
-    function(msg)
-        handle_run(UpdateClient, msg)
-    end
-)
 
 ------------------------------------------------------
 
