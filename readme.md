@@ -2,12 +2,13 @@
 # Project Name
 
 ## Description
-A brief description of your project.
+A brief description of your project with Arweave integration.
 
 ## Getting Started
 
 ### Prerequisites
 - [Docker](https://www.docker.com/get-started) installed on your machine.
+- [Arweave](https://www.arweave.org/) installed on your machine.
 
 ### Installation
 
@@ -28,7 +29,7 @@ A brief description of your project.
     ```
 
 ## Usage
-Instructions on how to use your application.
+Instructions on how to use your application with Arweave.
 
 ## Contributing
 Guidelines for contributing to the project.
